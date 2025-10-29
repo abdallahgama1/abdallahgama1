@@ -123,7 +123,9 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=radical&hide_border=true" height="150" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=radical&hide_border=true" height="150" alt="streak <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahgama1&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+
+" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
