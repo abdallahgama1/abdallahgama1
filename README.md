@@ -122,17 +122,30 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 
 <div align="center">
 
-  <a href="https://github.com/abdallahgama1">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true&v=3" height="140" alt="GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=dark&hide_border=true&v=3" height="140" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/abdallahgama1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=dark&hide_border=true&v=3" height="140" alt="Top Languages" />
-  </a>
+<!-- 🌙 Dark mode version -->
+<a href="https://github.com/abdallahgama1#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true&v=3#gh-dark-mode-only" height="140" alt="GitHub Stats" />
+</a>
+<a href="https://git.io/streak-stats#gh-dark-mode-only">
+  <img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=dark&hide_border=true&v=3#gh-dark-mode-only" height="140" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/abdallahgama1#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=dark&hide_border=true&v=3#gh-dark-mode-only" height="140" alt="Top Languages" />
+</a>
+
+<!-- ☀️ Light mode version -->
+<a href="https://github.com/abdallahgama1#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=default&hide_border=true&v=3#gh-light-mode-only" height="140" alt="GitHub Stats" />
+</a>
+<a href="https://git.io/streak-stats#gh-light-mode-only">
+  <img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=default&hide_border=true&v=3#gh-light-mode-only" height="140" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/abdallahgama1#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=default&hide_border=true&v=3#gh-light-mode-only" height="140" alt="Top Languages" />
+</a>
 
 </div>
+
 
 ---
 
