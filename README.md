@@ -1,3 +1,4 @@
+<!-- 👋 Hi, I'm Abdallah Gamal -->
 <h1 align="center">Hello, I'm Abdallah Gamal</h1>
 <h3 align="center">Backend Developer | Node.js • Go • Flask</h3>
 
@@ -105,24 +106,24 @@
 ## 💻 Featured Projects
 
 ### 🛒 [Scalable E-Commerce API](https://github.com/abdallahgama1/mern-ecommerce-app)
-- Designed and built a secure, high-performance RESTful API for a full-stack e-commerce platform.
-- Implemented **secure JWT-based authentication** and authorization with role-based access control (user vs. admin).
-- Integrated **Redis caching** for product queries to reduce database load and improve response time.
-- Engineered complex data models (users, products, orders) in MongoDB and integrated the **Stripe API** for secure payment processing.
+- Designed and built a secure, high-performance RESTful API for a full-stack e-commerce platform.  
+- Implemented **secure JWT-based authentication** and authorization with role-based access control.  
+- Integrated **Redis caching** for product queries to reduce database load.  
+- Engineered complex data models in MongoDB and integrated **Stripe API** for secure payment processing.  
 <br>
 **Tech:** `Node.js`, `Express.js`, `MongoDB`, `Redis`, `Stripe`
 
 ### 💬 [Social Media App API](https://github.com/abdallahgama1/linkedin-clone)
-- Engineered a backend for a social-feed application, focusing on **advanced authentication and security**.
-- Implemented a **JWT rotation strategy with refresh tokens** to ensure secure, long-lived user sessions.
-- Built RESTful endpoints for core social features (posts, comments, connections) and integrated with a **Next.js SSR** frontend.
+- Engineered a backend for a social-feed app with **advanced authentication & security**.  
+- Implemented a **JWT rotation strategy with refresh tokens** for long-lived sessions.  
+- Built RESTful endpoints for posts, comments, and connections; integrated with **Next.js SSR frontend**.  
 <br>
 **Tech:** `Node.js`, `Next.js`, `MongoDB`, `Express.js`
 
 ### 📦 [Inventory Management Web App](https://inventory-frontend-eight-tau.vercel.app)
-- Developed a full-stack internal tool to solve a business logistics problem.
-- Built a **Flask backend** that uses the **Pandas** library to ingest spreadsheets, identify inventory discrepancies, and **generate downloadable reports**.
-- Connected the API to a **React** frontend (with TailwindCSS) for a seamless user experience.
+- Developed a full-stack tool for managing and verifying inventory data.  
+- Built a **Flask backend** using **Pandas** to analyze Excel files and detect mismatches.  
+- Connected to a **React + Tailwind** frontend with file uploads and downloadable reports.  
 <br>
 **Tech:** `Flask`, `React`, `TailwindCSS`, `Pandas`, `OpenPyXL`
 
@@ -140,4 +141,13 @@
 
 ---
 
-![Snake Animation](
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:abdallahgamal20022@gmail.com"><img src="https://img.shields.io/badge/Email-abdallahgamal20022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abdallah--gamal"><img src="https://img.shields.io/badge/LinkedIn-Abdallah--Gamal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/abdallahgama1"><img src="https://img.shields.io/badge/GitHub-AbdallahGama1-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+![Snake Animation](https://github.com/abdallahgama1/abdallahgama1/blob/output/snake-dark.svg)
