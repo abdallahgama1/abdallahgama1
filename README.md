@@ -1,68 +1,94 @@
-<!-- 👋 Hi, I'm Abdallah Gamal -->
-<h1 align="center">Hi 👋, I'm Abdallah Gamal</h1>
-<h3 align="center">⚡ Backend Developer | Node.js • Go • Flask ⚡</h3>
+<h1 align="center">Hello, I'm Abdallah Gamal</h1>
+<h3 align="center">Backend Developer | Node.js • Go • Flask</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave">
-  <br>
-  <b>Building scalable, secure, and high-performance backend systems</b>
-  <br><br>
-  <a href="https://linkedin.com/in/abdallah--gamal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abdallahgamal20022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abdallahgama1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abdallahgama1&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abdallahgama1)
+[![GitHub Followers](https://img.shields.io/github/followers/abdallahgama1?style=social)](https://github.com/abdallahgama1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah--gamal)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdallahgamal20022@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 About Me
+<div align="left">
 
-- 🔭 Currently building **backend systems** using Node.js, Go, and Flask  
-- 🌱 Learning **Microservices, Distributed Systems, and Clean Architecture**  
-- 💬 Ask me about **APIs, Databases, Authentication, and Performance Optimization**  
-- ⚙️ Passionate about **Design Patterns, Scalability, and Automation**  
-- 🚀 Goal: To build **resilient backend architectures** that power real-world apps  
+## 🚀 About Me  
+
+</div>
+
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="backend gif"/>
+
+<div align="left">
+  
+  I'm a **Backend Developer** passionate about designing and building **scalable, secure, and high-performance systems**.  
+  I enjoy crafting efficient APIs, optimizing databases, and integrating backend logic with frontend applications.  
+
+  - 🔭 **Currently working on:** Backend systems using Node.js, Go, and Flask  
+  - 🌱 **Currently learning:** Microservices & Distributed Systems  
+  - ⚙️ **Interested in:** Clean Architecture, System Design, and Automation  
+  - 💼 **Open to:** Backend Developer roles & collaborations  
+  - 📫 **Reach me at:** abdallahgamal20022@gmail.com
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Backend & Frameworks
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🧠 Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang" />
+</div>
 
-### 🧩 Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
+### ⚙️ Backend & Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+</div>
 
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 🗄️ Databases & ORMs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+</div>
 
-### ⚙️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+### 🧩 Tools & DevOps
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+</div>
 
-### 💻 Frontend (Integration)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 💻 Frontend (for Integration)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind" />
+</div>
 
 ---
 
@@ -78,51 +104,20 @@ Secure social app with JWT rotation, refresh tokens, and SSR via Next.js.
 
 ### 📦 [Inventory Management Web App](https://inventory-frontend-eight-tau.vercel.app)
 Flask + React + Pandas app to detect quantity mismatches and export reports.  
-**Tech:** Flask, React, Vite, TailwindCSS, Pandas, OpenPyXL
-
-### 🧪 Laboratory Management App
-Backend for managing lab test data with rule-based logic and automation.  
-**Tech:** Flask, HTML5, CSS3, Bootstrap
+**Tech:** Flask, React, TailwindCSS, Pandas, OpenPyXL
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahgama1&theme=radical" height="165">
-</p>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahgama1&layout=compact&theme=radical">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdallahgama1&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
-</p>
+</div>
 
 ---
 
-## 💬 Quote
-
-> “Building resilient backends that power seamless experiences.”
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:abdallahgamal20022@gmail.com"><img src="https://img.shields.io/badge/Email-abdallahgamal20022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abdallah--gamal"><img src="https://img.shields.io/badge/LinkedIn-Abdallah--Gamal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abdallahgama1"><img src="https://img.shields.io/badge/GitHub-AbdallahGama1-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/abdallahgama1/abdallahgama1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![Snake Animation](https://github.com/abdallahgama1/abdallahgama1/blob/output/snake-dark.svg)
