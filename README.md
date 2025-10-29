@@ -3,18 +3,17 @@
 <h3 align="center">⚡ Backend Developer | Node.js • Go • Flask ⚡</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave">
   <br>
   <b>Building scalable, secure, and high-performance backend systems</b>
-  <br>
-  <br>
+  <br><br>
   <a href="https://linkedin.com/in/abdallah--gamal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abdallahgamal20022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/abdallahgamal">
+  <a href="https://github.com/abdallahgama1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -23,11 +22,11 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **scalable backend systems** using Node.js, Go, and Flask.  
-- 🌱 I’m learning more about **Microservices & Distributed Systems**.  
-- 💬 Ask me about **APIs, Databases, Authentication, and Performance Optimization**.  
-- ⚙️ Passionate about **Clean Architecture, Design Patterns, and Automation**.  
-- 🚀 Goal: To build **resilient backend architectures** that power real-world apps.  
+- 🔭 Currently building **backend systems** using Node.js, Go, and Flask  
+- 🌱 Learning **Microservices, Distributed Systems, and Clean Architecture**  
+- 💬 Ask me about **APIs, Databases, Authentication, and Performance Optimization**  
+- ⚙️ Passionate about **Design Patterns, Scalability, and Automation**  
+- 🚀 Goal: To build **resilient backend architectures** that power real-world apps  
 
 ---
 
@@ -60,17 +59,17 @@
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### 💻 Frontend (for Integration)
+### 💻 Frontend (Integration)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 🧩 Featured Projects
+## 💻 Featured Projects
 
 ### 🛒 [E-Commerce Store](https://github.com/abdallahgama1/mern-ecommerce-app)
-Scalable MERN backend with JWT authentication, Redis caching, and Stripe payments.  
+Node.js backend with JWT authentication, Redis caching, and Stripe payments.  
 **Tech:** Node.js, Express.js, MongoDB, Redis, Stripe
 
 ### 💬 [Social Media App (LinkedIn Clone)](https://github.com/abdallahgama1/linkedin-clone)
@@ -82,7 +81,7 @@ Flask + React + Pandas app to detect quantity mismatches and export reports.
 **Tech:** Flask, React, Vite, TailwindCSS, Pandas, OpenPyXL
 
 ### 🧪 Laboratory Management App
-Automated backend for managing lab test data with rule-based analysis.  
+Backend for managing lab test data with rule-based logic and automation.  
 **Tech:** Flask, HTML5, CSS3, Bootstrap
 
 ---
@@ -90,12 +89,12 @@ Automated backend for managing lab test data with rule-based analysis.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahgamal&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahgamal&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahgama1&theme=radical" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahgamal&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahgama1&layout=compact&theme=radical">
 </p>
 
 ---
@@ -103,7 +102,7 @@ Automated backend for managing lab test data with rule-based analysis.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdallahgamal&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdallahgama1&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
@@ -119,11 +118,11 @@ Automated backend for managing lab test data with rule-based analysis.
 <p align="center">
   <a href="mailto:abdallahgamal20022@gmail.com"><img src="https://img.shields.io/badge/Email-abdallahgamal20022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/abdallah--gamal"><img src="https://img.shields.io/badge/LinkedIn-Abdallah--Gamal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abdallahgamal"><img src="https://img.shields.io/badge/GitHub-AbdallahGamal-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/abdallahgama1"><img src="https://img.shields.io/badge/GitHub-AbdallahGama1-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/abdallahgamal/abdallahgamal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/abdallahgama1/abdallahgama1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
