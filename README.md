@@ -121,15 +121,20 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-  <!-- Main GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
 
-  <!-- GitHub streak graph (stable version) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahgama1&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahgama1&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
