@@ -25,7 +25,7 @@
   I'm a **Backend Developer** passionate about designing and building **scalable, secure, and high-performance systems**.  
   I enjoy crafting efficient APIs, optimizing databases, and integrating backend logic with frontend applications.  
 
-  - 🔭 **Currently working on:** Backend systems using Node.js, Go, and Flask  
+  - 🔭 **Currently building:** Backend systems using Node.js, Go, and Flask  
   - 🌱 **Currently learning:** Microservices & Distributed Systems  
   - ⚙️ **Interested in:** Clean Architecture, System Design, and Automation  
   - 💼 **Open to:** Backend Developer roles & collaborations  
@@ -56,7 +56,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Gin-0094B7?style=for-the-badge&logo=go&logoColor=white" height="40" alt="Gin" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
 </div>
@@ -68,6 +72,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" height="40" alt="Mongoose" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" height="40" alt="typeorm" />
 </div>
 
 ### 🧩 Tools & DevOps
@@ -77,6 +85,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
@@ -94,17 +104,27 @@
 
 ## 💻 Featured Projects
 
-### 🛒 [E-Commerce Store](https://github.com/abdallahgama1/mern-ecommerce-app)
-Node.js backend with JWT authentication, Redis caching, and Stripe payments.  
-**Tech:** Node.js, Express.js, MongoDB, Redis, Stripe
+### 🛒 [Scalable E-Commerce API](https://github.com/abdallahgama1/mern-ecommerce-app)
+- Designed and built a secure, high-performance RESTful API for a full-stack e-commerce platform.
+- Implemented **secure JWT-based authentication** and authorization with role-based access control (user vs. admin).
+- Integrated **Redis caching** for product queries to reduce database load and improve response time.
+- Engineered complex data models (users, products, orders) in MongoDB and integrated the **Stripe API** for secure payment processing.
+<br>
+**Tech:** `Node.js`, `Express.js`, `MongoDB`, `Redis`, `Stripe`
 
-### 💬 [Social Media App (LinkedIn Clone)](https://github.com/abdallahgama1/linkedin-clone)
-Secure social app with JWT rotation, refresh tokens, and SSR via Next.js.  
-**Tech:** Node.js, Next.js, MongoDB, Express.js
+### 💬 [Social Media App API](https://github.com/abdallahgama1/linkedin-clone)
+- Engineered a backend for a social-feed application, focusing on **advanced authentication and security**.
+- Implemented a **JWT rotation strategy with refresh tokens** to ensure secure, long-lived user sessions.
+- Built RESTful endpoints for core social features (posts, comments, connections) and integrated with a **Next.js SSR** frontend.
+<br>
+**Tech:** `Node.js`, `Next.js`, `MongoDB`, `Express.js`
 
 ### 📦 [Inventory Management Web App](https://inventory-frontend-eight-tau.vercel.app)
-Flask + React + Pandas app to detect quantity mismatches and export reports.  
-**Tech:** Flask, React, TailwindCSS, Pandas, OpenPyXL
+- Developed a full-stack internal tool to solve a business logistics problem.
+- Built a **Flask backend** that uses the **Pandas** library to ingest spreadsheets, identify inventory discrepancies, and **generate downloadable reports**.
+- Connected the API to a **React** frontend (with TailwindCSS) for a seamless user experience.
+<br>
+**Tech:** `Flask`, `React`, `TailwindCSS`, `Pandas`, `OpenPyXL`
 
 ---
 
@@ -120,4 +140,4 @@ Flask + React + Pandas app to detect quantity mismatches and export reports.
 
 ---
 
-![Snake Animation](https://github.com/abdallahgama1/abdallahgama1/blob/output/snake-dark.svg)
+![Snake Animation](
