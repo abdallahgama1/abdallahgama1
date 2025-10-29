@@ -122,37 +122,13 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true&v=1" height="150" alt="GitHub Stats - dark" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 
 </div>
-<div align="center">
-
-<!-- Theme: dark -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true&v=1" height="150" alt="GitHub Stats - dark" />
-<br/>
-
-<!-- Theme: merko -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=merko&hide_border=true&v=1" height="150" alt="GitHub Stats - merko" />
-<br/>
-
-<!-- Theme: gruvbox -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=gruvbox&hide_border=true&v=1" height="150" alt="GitHub Stats - gruvbox" />
-<br/>
-
-<!-- Theme: dracula -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dracula&hide_border=true&v=1" height="150" alt="GitHub Stats - dracula" />
-
-</div>
-<!-- Streak (stable demo host) -->
-<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=gruvbox&hide_border=true&v=1" height="150" alt="Streak" />
-
-<!-- Top langs -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=gruvbox&hide_border=true&v=1" height="150" alt="Top Languages" />
-
 
 ---
 
