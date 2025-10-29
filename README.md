@@ -147,6 +147,12 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dracula&hide_border=true&v=1" height="150" alt="GitHub Stats - dracula" />
 
 </div>
+<!-- Streak (stable demo host) -->
+<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=gruvbox&hide_border=true&v=1" height="150" alt="Streak" />
+
+<!-- Top langs -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=gruvbox&hide_border=true&v=1" height="150" alt="Top Languages" />
+
 
 ---
 
