@@ -46,7 +46,7 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" />
+  <img src="https://nestjs.com/img/logo_text.svg" height="40" alt="nestjs" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
   <img width="12" />
@@ -63,9 +63,9 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" height="28" alt="Mongoose" />
+  <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" height="40" alt="typeorm" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" height="40" alt="typeorm" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" height="28" alt="Mongoose" />
 </div>
 
 ### 🧩 Tools & DevOps
@@ -87,7 +87,7 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" />
 </div>
 
 ---
@@ -100,21 +100,21 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 - Integrated **Redis caching** to improve performance and reduce DB load.  
 - Built complex models in MongoDB and integrated **Stripe API** for secure payments.  
 <br>
-**Tech:** `Node.js`, `Express.js`, `MongoDB`, `Redis`, `Stripe`
+**Tech:** Node.js, Express.js, MongoDB, Redis, Stripe
 
 ### 💬 [Social Media App API](https://github.com/abdallahgama1/linkedin-clone)
 - Developed a backend for a social-feed app with **JWT refresh tokens** and **secure authentication**.  
 - Created RESTful endpoints for posts, comments, and user connections.  
 - Integrated with **Next.js SSR frontend** for seamless data rendering.  
 <br>
-**Tech:** `Node.js`, `Next.js`, `MongoDB`, `Express.js`
+**Tech:** Node.js, Next.js, MongoDB, Express.js
 
 ### 📦 [Inventory Management Web App](https://inventory-frontend-eight-tau.vercel.app)
 - Built a full-stack tool for **inventory tracking and variance reporting**.  
 - Developed a **Flask backend** with **Pandas** to analyze Excel data.  
 - Connected to a **React + Tailwind** frontend for visualization and file export.  
 <br>
-**Tech:** `Flask`, `React`, `TailwindCSS`, `Pandas`, `OpenPyXL`
+**Tech:** Flask, React, TailwindCSS, Pandas, OpenPyXL
 
 ---
 
@@ -123,7 +123,7 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=radical&hide_border=true" height="150" alt="streak graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
