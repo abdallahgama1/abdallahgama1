@@ -122,11 +122,11 @@ I enjoy crafting efficient APIs, optimizing databases, and integrating backend l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahgama1&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=abdallahgama1&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=abdallahgama1&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&locale=en&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahgama1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 
 </div>
 
