@@ -1,5 +1,4 @@
-<!-- 👋 Hi, I'm Abdallah Gamal -->
-<h1 align="center">Hello, I'm Abdallah Gamal</h1>
+<h1 align="center">Hello, I'm Abdallah Gamal 👋</h1>
 <h3 align="center">Backend Developer | Node.js • Go • Flask</h3>
 
 <div align="center">
@@ -13,26 +12,18 @@
 
 ---
 
-<div align="left">
-
 ## 🚀 About Me  
-
-</div>
 
 <img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="backend gif"/>
 
-<div align="left">
-  
-  I'm a **Backend Developer** passionate about designing and building **scalable, secure, and high-performance systems**.  
-  I enjoy crafting efficient APIs, optimizing databases, and integrating backend logic with frontend applications.  
+I'm a **Backend Developer** passionate about designing and building **scalable, secure, and high-performance systems**.  
+I enjoy crafting efficient APIs, optimizing databases, and integrating backend logic with frontend applications.  
 
-  - 🔭 **Currently building:** Backend systems using Node.js, Go, and Flask  
-  - 🌱 **Currently learning:** Microservices & Distributed Systems  
-  - ⚙️ **Interested in:** Clean Architecture, System Design, and Automation  
-  - 💼 **Open to:** Backend Developer roles & collaborations  
-  - 📫 **Reach me at:** abdallahgamal20022@gmail.com
-
-</div>
+- 🔭 **Currently building:** Backend systems using Node.js, Go, and Flask  
+- 🌱 **Currently learning:** Microservices & Distributed Systems  
+- ⚙️ **Interested in:** Clean Architecture, System Design, and Automation  
+- 💼 **Open to:** Backend Developer roles & collaborations  
+- 📫 **Reach me at:** [abdallahgamal20022@gmail.com](mailto:abdallahgamal20022@gmail.com)
 
 ---
 
@@ -59,9 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Gin-0094B7?style=for-the-badge&logo=go&logoColor=white" height="40" alt="Gin" />
+  <img src="https://img.shields.io/badge/Gin-0094B7?style=for-the-badge&logo=go&logoColor=white" height="28" alt="Gin" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
 </div>
@@ -74,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" height="40" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" height="28" alt="Mongoose" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" height="40" alt="typeorm" />
 </div>
@@ -107,23 +96,23 @@
 
 ### 🛒 [Scalable E-Commerce API](https://github.com/abdallahgama1/mern-ecommerce-app)
 - Designed and built a secure, high-performance RESTful API for a full-stack e-commerce platform.  
-- Implemented **secure JWT-based authentication** and authorization with role-based access control.  
-- Integrated **Redis caching** for product queries to reduce database load.  
-- Engineered complex data models in MongoDB and integrated **Stripe API** for secure payment processing.  
+- Implemented **JWT-based authentication** and role-based authorization.  
+- Integrated **Redis caching** to improve performance and reduce DB load.  
+- Built complex models in MongoDB and integrated **Stripe API** for secure payments.  
 <br>
 **Tech:** `Node.js`, `Express.js`, `MongoDB`, `Redis`, `Stripe`
 
 ### 💬 [Social Media App API](https://github.com/abdallahgama1/linkedin-clone)
-- Engineered a backend for a social-feed app with **advanced authentication & security**.  
-- Implemented a **JWT rotation strategy with refresh tokens** for long-lived sessions.  
-- Built RESTful endpoints for posts, comments, and connections; integrated with **Next.js SSR frontend**.  
+- Developed a backend for a social-feed app with **JWT refresh tokens** and **secure authentication**.  
+- Created RESTful endpoints for posts, comments, and user connections.  
+- Integrated with **Next.js SSR frontend** for seamless data rendering.  
 <br>
 **Tech:** `Node.js`, `Next.js`, `MongoDB`, `Express.js`
 
 ### 📦 [Inventory Management Web App](https://inventory-frontend-eight-tau.vercel.app)
-- Developed a full-stack tool for managing and verifying inventory data.  
-- Built a **Flask backend** using **Pandas** to analyze Excel files and detect mismatches.  
-- Connected to a **React + Tailwind** frontend with file uploads and downloadable reports.  
+- Built a full-stack tool for **inventory tracking and variance reporting**.  
+- Developed a **Flask backend** with **Pandas** to analyze Excel data.  
+- Connected to a **React + Tailwind** frontend for visualization and file export.  
 <br>
 **Tech:** `Flask`, `React`, `TailwindCSS`, `Pandas`, `OpenPyXL`
 
